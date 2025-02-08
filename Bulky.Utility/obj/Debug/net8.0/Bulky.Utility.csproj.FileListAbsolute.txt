@@ -1,0 +1,13 @@
+E:\Bulky\Bulky.Utility\bin\Debug\net8.0\Bulky.Utility.deps.json
+E:\Bulky\Bulky.Utility\bin\Debug\net8.0\Bulky.Utility.dll
+E:\Bulky\Bulky.Utility\bin\Debug\net8.0\Bulky.Utility.pdb
+E:\Bulky\Bulky.Utility\obj\Debug\net8.0\Bulky.Utility.GeneratedMSBuildEditorConfig.editorconfig
+E:\Bulky\Bulky.Utility\obj\Debug\net8.0\Bulky.Utility.AssemblyInfoInputs.cache
+E:\Bulky\Bulky.Utility\obj\Debug\net8.0\Bulky.Utility.AssemblyInfo.cs
+E:\Bulky\Bulky.Utility\obj\Debug\net8.0\Bulky.Utility.csproj.CoreCompileInputs.cache
+E:\Bulky\Bulky.Utility\obj\Debug\net8.0\Bulky.Utility.sourcelink.json
+E:\Bulky\Bulky.Utility\obj\Debug\net8.0\Bulky.Utility.dll
+E:\Bulky\Bulky.Utility\obj\Debug\net8.0\refint\Bulky.Utility.dll
+E:\Bulky\Bulky.Utility\obj\Debug\net8.0\Bulky.Utility.pdb
+E:\Bulky\Bulky.Utility\obj\Debug\net8.0\ref\Bulky.Utility.dll
+E:\Bulky\Bulky.Utility\obj\Debug\net8.0\Bulky.Utility.csproj.AssemblyReference.cache
