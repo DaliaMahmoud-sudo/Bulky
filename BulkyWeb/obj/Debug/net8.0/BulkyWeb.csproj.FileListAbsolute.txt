@@ -502,7 +502,6 @@ E:\course\lvl4\Bulky\BulkyWeb\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGe
 E:\course\lvl4\Bulky\BulkyWeb\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
 E:\course\lvl4\Bulky\BulkyWeb\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
 E:\course\lvl4\Bulky\BulkyWeb\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
-E:\course\lvl4\Bulky\BulkyWeb\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
 E:\course\lvl4\Bulky\BulkyWeb\bin\Debug\net8.0\Mono.TextTemplating.dll
 E:\course\lvl4\Bulky\BulkyWeb\bin\Debug\net8.0\Newtonsoft.Json.dll
 E:\course\lvl4\Bulky\BulkyWeb\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
@@ -525,14 +524,12 @@ E:\course\lvl4\Bulky\BulkyWeb\bin\Debug\net8.0\System.Composition.Hosting.dll
 E:\course\lvl4\Bulky\BulkyWeb\bin\Debug\net8.0\System.Composition.Runtime.dll
 E:\course\lvl4\Bulky\BulkyWeb\bin\Debug\net8.0\System.Composition.TypedParts.dll
 E:\course\lvl4\Bulky\BulkyWeb\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
-E:\course\lvl4\Bulky\BulkyWeb\bin\Debug\net8.0\System.Drawing.Common.dll
 E:\course\lvl4\Bulky\BulkyWeb\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
 E:\course\lvl4\Bulky\BulkyWeb\bin\Debug\net8.0\System.Memory.Data.dll
 E:\course\lvl4\Bulky\BulkyWeb\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
 E:\course\lvl4\Bulky\BulkyWeb\bin\Debug\net8.0\System.Runtime.Caching.dll
 E:\course\lvl4\Bulky\BulkyWeb\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
 E:\course\lvl4\Bulky\BulkyWeb\bin\Debug\net8.0\System.Security.Permissions.dll
-E:\course\lvl4\Bulky\BulkyWeb\bin\Debug\net8.0\System.Windows.Extensions.dll
 E:\course\lvl4\Bulky\BulkyWeb\bin\Debug\net8.0\af\Humanizer.resources.dll
 E:\course\lvl4\Bulky\BulkyWeb\bin\Debug\net8.0\ar\Humanizer.resources.dll
 E:\course\lvl4\Bulky\BulkyWeb\bin\Debug\net8.0\az\Humanizer.resources.dll
@@ -678,7 +675,6 @@ E:\course\lvl4\Bulky\BulkyWeb\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft
 E:\course\lvl4\Bulky\BulkyWeb\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
 E:\course\lvl4\Bulky\BulkyWeb\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
 E:\course\lvl4\Bulky\BulkyWeb\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
-E:\course\lvl4\Bulky\BulkyWeb\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
 E:\course\lvl4\Bulky\BulkyWeb\bin\Debug\net8.0\runtimes\browser-wasm\nativeassets\net8.0\e_sqlite3.a
 E:\course\lvl4\Bulky\BulkyWeb\bin\Debug\net8.0\runtimes\linux-arm\native\libe_sqlite3.so
 E:\course\lvl4\Bulky\BulkyWeb\bin\Debug\net8.0\runtimes\linux-arm64\native\libe_sqlite3.so
@@ -699,10 +695,7 @@ E:\course\lvl4\Bulky\BulkyWeb\bin\Debug\net8.0\runtimes\win-arm\native\e_sqlite3
 E:\course\lvl4\Bulky\BulkyWeb\bin\Debug\net8.0\runtimes\win-arm64\native\e_sqlite3.dll
 E:\course\lvl4\Bulky\BulkyWeb\bin\Debug\net8.0\runtimes\win-x64\native\e_sqlite3.dll
 E:\course\lvl4\Bulky\BulkyWeb\bin\Debug\net8.0\runtimes\win-x86\native\e_sqlite3.dll
-E:\course\lvl4\Bulky\BulkyWeb\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
 E:\course\lvl4\Bulky\BulkyWeb\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
-E:\course\lvl4\Bulky\BulkyWeb\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
-E:\course\lvl4\Bulky\BulkyWeb\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
 E:\course\lvl4\Bulky\BulkyWeb\bin\Debug\net8.0\Bulky.DataAccess.dll
 E:\course\lvl4\Bulky\BulkyWeb\bin\Debug\net8.0\Bulky.Models.dll
 E:\course\lvl4\Bulky\BulkyWeb\bin\Debug\net8.0\Bulky.Utility.dll
@@ -735,3 +728,4 @@ E:\course\lvl4\Bulky\BulkyWeb\obj\Debug\net8.0\refint\BulkyWeb.dll
 E:\course\lvl4\Bulky\BulkyWeb\obj\Debug\net8.0\BulkyWeb.pdb
 E:\course\lvl4\Bulky\BulkyWeb\obj\Debug\net8.0\BulkyWeb.genruntimeconfig.cache
 E:\course\lvl4\Bulky\BulkyWeb\obj\Debug\net8.0\ref\BulkyWeb.dll
+E:\course\lvl4\Bulky\BulkyWeb\bin\Debug\net8.0\Stripe.net.dll
