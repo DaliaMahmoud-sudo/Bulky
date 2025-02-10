@@ -13690,11 +13690,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Bulky\\Bulky.DataAccess\\Bulky.DataAccess.csproj",
+      "projectUniqueName": "E:\\course\\lvl4\\Bulky\\Bulky.DataAccess\\Bulky.DataAccess.csproj",
       "projectName": "Bulky.DataAccess",
-      "projectPath": "E:\\Bulky\\Bulky.DataAccess\\Bulky.DataAccess.csproj",
+      "projectPath": "E:\\course\\lvl4\\Bulky\\Bulky.DataAccess\\Bulky.DataAccess.csproj",
       "packagesPath": "C:\\Users\\20109\\.nuget\\packages\\",
-      "outputPath": "E:\\Bulky\\Bulky.DataAccess\\obj\\",
+      "outputPath": "E:\\course\\lvl4\\Bulky\\Bulky.DataAccess\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -13716,11 +13716,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "E:\\Bulky\\Bulky.Models\\Bulky.Models.csproj": {
-              "projectPath": "E:\\Bulky\\Bulky.Models\\Bulky.Models.csproj"
+            "E:\\course\\lvl4\\Bulky\\Bulky.Models\\Bulky.Models.csproj": {
+              "projectPath": "E:\\course\\lvl4\\Bulky\\Bulky.Models\\Bulky.Models.csproj"
             },
-            "E:\\Bulky\\Bulky.Utility\\Bulky.Utility.csproj": {
-              "projectPath": "E:\\Bulky\\Bulky.Utility\\Bulky.Utility.csproj"
+            "E:\\course\\lvl4\\Bulky\\Bulky.Utility\\Bulky.Utility.csproj": {
+              "projectPath": "E:\\course\\lvl4\\Bulky\\Bulky.Utility\\Bulky.Utility.csproj"
             }
           }
         }

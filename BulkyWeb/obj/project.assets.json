@@ -13989,11 +13989,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Bulky\\BulkyWeb\\BulkyWeb.csproj",
+      "projectUniqueName": "E:\\course\\lvl4\\Bulky\\BulkyWeb\\BulkyWeb.csproj",
       "projectName": "BulkyWeb",
-      "projectPath": "E:\\Bulky\\BulkyWeb\\BulkyWeb.csproj",
+      "projectPath": "E:\\course\\lvl4\\Bulky\\BulkyWeb\\BulkyWeb.csproj",
       "packagesPath": "C:\\Users\\20109\\.nuget\\packages\\",
-      "outputPath": "E:\\Bulky\\BulkyWeb\\obj\\",
+      "outputPath": "E:\\course\\lvl4\\Bulky\\BulkyWeb\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -14015,8 +14015,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "E:\\Bulky\\Bulky.DataAccess\\Bulky.DataAccess.csproj": {
-              "projectPath": "E:\\Bulky\\Bulky.DataAccess\\Bulky.DataAccess.csproj"
+            "E:\\course\\lvl4\\Bulky\\Bulky.DataAccess\\Bulky.DataAccess.csproj": {
+              "projectPath": "E:\\course\\lvl4\\Bulky\\Bulky.DataAccess\\Bulky.DataAccess.csproj"
             }
           }
         }
