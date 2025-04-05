@@ -77,6 +77,10 @@
       "PackagePath": "staticwebassets\\js\\company.js"
     },
     {
+      "Id": "E:\\course\\lvl4\\Bulky\\BulkyWeb\\wwwroot\\js\\order.js",
+      "PackagePath": "staticwebassets\\js\\order.js"
+    },
+    {
       "Id": "E:\\course\\lvl4\\Bulky\\BulkyWeb\\wwwroot\\js\\product.js",
       "PackagePath": "staticwebassets\\js\\product.js"
     },
