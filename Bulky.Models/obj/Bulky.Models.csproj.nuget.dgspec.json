@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\course\\lvl4\\Bulky\\Bulky.Models\\Bulky.Models.csproj": {}
+    "E:\\course\\Bulky\\Bulky\\Bulky.Models\\Bulky.Models.csproj": {}
   },
   "projects": {
-    "E:\\course\\lvl4\\Bulky\\Bulky.Models\\Bulky.Models.csproj": {
+    "E:\\course\\Bulky\\Bulky\\Bulky.Models\\Bulky.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\course\\lvl4\\Bulky\\Bulky.Models\\Bulky.Models.csproj",
+        "projectUniqueName": "E:\\course\\Bulky\\Bulky\\Bulky.Models\\Bulky.Models.csproj",
         "projectName": "Bulky.Models",
-        "projectPath": "E:\\course\\lvl4\\Bulky\\Bulky.Models\\Bulky.Models.csproj",
+        "projectPath": "E:\\course\\Bulky\\Bulky\\Bulky.Models\\Bulky.Models.csproj",
         "packagesPath": "C:\\Users\\20109\\.nuget\\packages\\",
-        "outputPath": "E:\\course\\lvl4\\Bulky\\Bulky.Models\\obj\\",
+        "outputPath": "E:\\course\\Bulky\\Bulky\\Bulky.Models\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

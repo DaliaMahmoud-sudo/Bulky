@@ -802,11 +802,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\course\\lvl4\\Bulky\\Bulky.Utility\\Bulky.Utility.csproj",
+      "projectUniqueName": "E:\\course\\Bulky\\Bulky\\Bulky.Utility\\Bulky.Utility.csproj",
       "projectName": "Bulky.Utility",
-      "projectPath": "E:\\course\\lvl4\\Bulky\\Bulky.Utility\\Bulky.Utility.csproj",
+      "projectPath": "E:\\course\\Bulky\\Bulky\\Bulky.Utility\\Bulky.Utility.csproj",
       "packagesPath": "C:\\Users\\20109\\.nuget\\packages\\",
-      "outputPath": "E:\\course\\lvl4\\Bulky\\Bulky.Utility\\obj\\",
+      "outputPath": "E:\\course\\Bulky\\Bulky\\Bulky.Utility\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
