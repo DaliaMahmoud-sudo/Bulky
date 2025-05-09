@@ -1317,3 +1317,4 @@ E:\course\Bulky\Bulky\BulkyWeb\obj\Debug\net8.0\BulkyWeb.csproj.Up2Date
 E:\course\Bulky\Bulky\BulkyWeb\obj\Debug\net8.0\BulkyWeb.genruntimeconfig.cache
 E:\course\Bulky\Bulky\BulkyWeb\obj\Debug\net8.0\ref\BulkyWeb.dll
 E:\course\Bulky\Bulky\BulkyWeb\obj\Debug\net8.0\scopedcss\Views\Shared\Components\ShoppingCart\Default.cshtml.rz.scp.css
+E:\course\Bulky\Bulky\BulkyWeb\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.Facebook.dll
