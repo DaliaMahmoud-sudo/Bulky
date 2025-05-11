@@ -3,6 +3,38 @@
   "WorkspaceRootPath": "E:\\course\\Bulky\\Bulky\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{122BF653-7CC6-4795-AEFB-901766837452}|BulkyWeb\\BulkyWeb.csproj|e:\\course\\bulky\\bulky\\bulkyweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{122BF653-7CC6-4795-AEFB-901766837452}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{122BF653-7CC6-4795-AEFB-901766837452}|BulkyWeb\\BulkyWeb.csproj|e:\\course\\bulky\\bulky\\bulkyweb\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{122BF653-7CC6-4795-AEFB-901766837452}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{122BF653-7CC6-4795-AEFB-901766837452}|BulkyWeb\\BulkyWeb.csproj|e:\\course\\bulky\\bulky\\bulkyweb\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{122BF653-7CC6-4795-AEFB-901766837452}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{122BF653-7CC6-4795-AEFB-901766837452}|BulkyWeb\\BulkyWeb.csproj|e:\\course\\bulky\\bulky\\bulkyweb\\areas\\admin\\views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{122BF653-7CC6-4795-AEFB-901766837452}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\areas\\admin\\views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{122BF653-7CC6-4795-AEFB-901766837452}|BulkyWeb\\BulkyWeb.csproj|e:\\course\\bulky\\bulky\\bulkyweb\\areas\\admin\\views\\order\\paymentconfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{122BF653-7CC6-4795-AEFB-901766837452}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\areas\\admin\\views\\order\\paymentconfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{122BF653-7CC6-4795-AEFB-901766837452}|BulkyWeb\\BulkyWeb.csproj|e:\\course\\bulky\\bulky\\bulkyweb\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{122BF653-7CC6-4795-AEFB-901766837452}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{122BF653-7CC6-4795-AEFB-901766837452}|BulkyWeb\\BulkyWeb.csproj|e:\\course\\bulky\\bulky\\bulkyweb\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{122BF653-7CC6-4795-AEFB-901766837452}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{122BF653-7CC6-4795-AEFB-901766837452}|BulkyWeb\\BulkyWeb.csproj|e:\\course\\bulky\\bulky\\bulkyweb\\viewcomponents\\shoppingcartviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{122BF653-7CC6-4795-AEFB-901766837452}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\viewcomponents\\shoppingcartviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{122BF653-7CC6-4795-AEFB-901766837452}|BulkyWeb\\BulkyWeb.csproj|e:\\course\\bulky\\bulky\\bulkyweb\\areas\\identity\\pages\\account\\externallogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{122BF653-7CC6-4795-AEFB-901766837452}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\areas\\identity\\pages\\account\\externallogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -13,10 +45,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{122BF653-7CC6-4795-AEFB-901766837452}|BulkyWeb\\BulkyWeb.csproj|e:\\course\\bulky\\bulky\\bulkyweb\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{122BF653-7CC6-4795-AEFB-901766837452}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{122BF653-7CC6-4795-AEFB-901766837452}|BulkyWeb\\BulkyWeb.csproj|e:\\course\\bulky\\bulky\\bulkyweb\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{122BF653-7CC6-4795-AEFB-901766837452}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -39,54 +67,147 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\course\\Bulky\\Bulky\\BulkyWeb\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "BulkyWeb\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\course\\Bulky\\Bulky\\BulkyWeb\\Views\\Shared\\_Layout.cshtml*",
+              "RelativeToolTip": "BulkyWeb\\Views\\Shared\\_Layout.cshtml*",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAADIAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-11T20:21:39.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "E:\\course\\Bulky\\Bulky\\BulkyWeb\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "BulkyWeb\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "E:\\course\\Bulky\\Bulky\\BulkyWeb\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs*",
+              "RelativeToolTip": "BulkyWeb\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs*",
+              "ViewState": "AgIAALkAAAAAAAAAAAAgwNMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T20:19:59.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\course\\Bulky\\Bulky\\BulkyWeb\\Areas\\Admin\\Views\\Order\\Index.cshtml",
+              "RelativeDocumentMoniker": "BulkyWeb\\Areas\\Admin\\Views\\Order\\Index.cshtml",
+              "ToolTip": "E:\\course\\Bulky\\Bulky\\BulkyWeb\\Areas\\Admin\\Views\\Order\\Index.cshtml",
+              "RelativeToolTip": "BulkyWeb\\Areas\\Admin\\Views\\Order\\Index.cshtml",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAAAGgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-11T20:05:07.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PaymentConfirmation.cshtml",
+              "DocumentMoniker": "E:\\course\\Bulky\\Bulky\\BulkyWeb\\Areas\\Admin\\Views\\Order\\PaymentConfirmation.cshtml",
+              "RelativeDocumentMoniker": "BulkyWeb\\Areas\\Admin\\Views\\Order\\PaymentConfirmation.cshtml",
+              "ToolTip": "E:\\course\\Bulky\\Bulky\\BulkyWeb\\Areas\\Admin\\Views\\Order\\PaymentConfirmation.cshtml",
+              "RelativeToolTip": "BulkyWeb\\Areas\\Admin\\Views\\Order\\PaymentConfirmation.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-11T20:05:04.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "E:\\course\\Bulky\\Bulky\\BulkyWeb\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "BulkyWeb\\Views\\_ViewImports.cshtml",
+              "ToolTip": "E:\\course\\Bulky\\Bulky\\BulkyWeb\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "BulkyWeb\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-11T20:04:47.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "E:\\course\\Bulky\\Bulky\\BulkyWeb\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "BulkyWeb\\Views\\_ViewStart.cshtml",
+              "ToolTip": "E:\\course\\Bulky\\Bulky\\BulkyWeb\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "BulkyWeb\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-11T20:04:45.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ShoppingCartViewComponent.cs",
+              "DocumentMoniker": "E:\\course\\Bulky\\Bulky\\BulkyWeb\\ViewComponents\\ShoppingCartViewComponent.cs",
+              "RelativeDocumentMoniker": "BulkyWeb\\ViewComponents\\ShoppingCartViewComponent.cs",
+              "ToolTip": "E:\\course\\Bulky\\Bulky\\BulkyWeb\\ViewComponents\\ShoppingCartViewComponent.cs",
+              "RelativeToolTip": "BulkyWeb\\ViewComponents\\ShoppingCartViewComponent.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T20:04:31.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "ExternalLogin.cshtml",
               "DocumentMoniker": "E:\\course\\Bulky\\Bulky\\BulkyWeb\\Areas\\Identity\\Pages\\Account\\ExternalLogin.cshtml",
               "RelativeDocumentMoniker": "BulkyWeb\\Areas\\Identity\\Pages\\Account\\ExternalLogin.cshtml",
-              "ToolTip": "E:\\course\\Bulky\\Bulky\\BulkyWeb\\Areas\\Identity\\Pages\\Account\\ExternalLogin.cshtml*",
-              "RelativeToolTip": "BulkyWeb\\Areas\\Identity\\Pages\\Account\\ExternalLogin.cshtml*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAABAAAAAAAAAA==",
+              "ToolTip": "E:\\course\\Bulky\\Bulky\\BulkyWeb\\Areas\\Identity\\Pages\\Account\\ExternalLogin.cshtml",
+              "RelativeToolTip": "BulkyWeb\\Areas\\Identity\\Pages\\Account\\ExternalLogin.cshtml",
+              "ViewState": "AgIAADIAAAAAAAAAAAAAACYAAABaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-05-09T18:45:25.475Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 9,
               "Title": "ExternalLogin.cshtml.cs",
               "DocumentMoniker": "E:\\course\\Bulky\\Bulky\\BulkyWeb\\Areas\\Identity\\Pages\\Account\\ExternalLogin.cshtml.cs",
               "RelativeDocumentMoniker": "BulkyWeb\\Areas\\Identity\\Pages\\Account\\ExternalLogin.cshtml.cs",
-              "ToolTip": "E:\\course\\Bulky\\Bulky\\BulkyWeb\\Areas\\Identity\\Pages\\Account\\ExternalLogin.cshtml.cs*",
-              "RelativeToolTip": "BulkyWeb\\Areas\\Identity\\Pages\\Account\\ExternalLogin.cshtml.cs*",
+              "ToolTip": "E:\\course\\Bulky\\Bulky\\BulkyWeb\\Areas\\Identity\\Pages\\Account\\ExternalLogin.cshtml.cs",
+              "RelativeToolTip": "BulkyWeb\\Areas\\Identity\\Pages\\Account\\ExternalLogin.cshtml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAK8AAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-09T18:41:01.692Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-09T18:41:01.692Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Register.cshtml",
               "DocumentMoniker": "E:\\course\\Bulky\\Bulky\\BulkyWeb\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
               "RelativeDocumentMoniker": "BulkyWeb\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
               "ToolTip": "E:\\course\\Bulky\\Bulky\\BulkyWeb\\Areas\\Identity\\Pages\\Account\\Register.cshtml*",
               "RelativeToolTip": "BulkyWeb\\Areas\\Identity\\Pages\\Account\\Register.cshtml*",
-              "ViewState": "AgIAADsAAAAAAAAAAAAuwFAAAAALAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-05-09T18:36:38.313Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 10,
               "Title": "Login.cshtml",
               "DocumentMoniker": "E:\\course\\Bulky\\Bulky\\BulkyWeb\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
               "RelativeDocumentMoniker": "BulkyWeb\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
-              "ToolTip": "E:\\course\\Bulky\\Bulky\\BulkyWeb\\Areas\\Identity\\Pages\\Account\\Login.cshtml*",
-              "RelativeToolTip": "BulkyWeb\\Areas\\Identity\\Pages\\Account\\Login.cshtml*",
+              "ToolTip": "E:\\course\\Bulky\\Bulky\\BulkyWeb\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "BulkyWeb\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
               "ViewState": "AgIAAC0AAAAAAAAAAAAAADkAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-09T18:36:24.733Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-09T18:36:24.733Z"
             }
           ]
         }
